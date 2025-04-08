@@ -43,5 +43,11 @@ cd CSharp
 dotnet build
 ```
 4. 執行範例
-
+```
+// 在特定範例目錄執行以下命令
+dotnet run
+```
 5. 執行單元測試
+```
+dotnet test
+```
